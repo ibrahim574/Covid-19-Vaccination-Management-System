@@ -1,0 +1,36 @@
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.csprojAssemblyReference.cache
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.LoginForm.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Properties.Resources.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.csproj.GenerateResource.cache
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.csproj.CoreCompileInputs.cache
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\bin\Debug\Covid-19 Vaccination Management System.exe.config
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\bin\Debug\Covid-19 Vaccination Management System.exe
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\bin\Debug\Covid-19 Vaccination Management System.pdb
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.exe
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.pdb
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.ManageVaccine.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.Dashboard.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.RegisteredUser.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.UserRegistration.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.UserManagement.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.VaccinationCompleted.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.FirstDoseCompleted.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Code\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.SecondDoseCompleted.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\bin\Debug\Covid-19 Vaccination Management System.exe.config
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\bin\Debug\Covid-19 Vaccination Management System.exe
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\bin\Debug\Covid-19 Vaccination Management System.pdb
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.csprojAssemblyReference.cache
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.Dashboard.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.FirstDoseCompleted.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.LoginForm.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.ManageVaccine.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.RegisteredUser.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.UserManagement.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.UserRegistration.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.VaccinationCompleted.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Properties.Resources.resources
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.csproj.GenerateResource.cache
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.csproj.CoreCompileInputs.cache
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.exe
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid-19 Vaccination Management System.pdb
+D:\study\9th semester()\C#\FINAL\Class\Lab\Covid-19 Vaccination Management System\obj\Debug\Covid_19_Vaccination_Management_System.Presentation_Layer.FristDosePending.resources
